@@ -12,6 +12,8 @@ import java.util.Scanner;
 public class TestUserprofile {
     public static void main (String[] args){
         
+        /* add the first commend*/
+        
         Scanner input = new Scanner(System.in);
         System.out.print("Please enter your name: ");
         String userName = input.nextLine();
